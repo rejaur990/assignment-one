@@ -1,0 +1,98 @@
+.banner-img{
+    margin: 50px;
+    width: 950px;
+    height:400px;}
+
+    .year{
+        color:blue;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    }
+  
+
+.typograpy{
+    color: rebeccapurple;
+text-align: justify;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; 
+width: 500px;
+margin: auto;
+
+}
+
+.discount{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.holiday{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.categorie{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.imag-two{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+}
+.midnight{
+    color: #3bb30f;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+text-align: justify;
+margin: auto;
+width: 600px;
+}
+
+.dolor-sit{
+    color: rgba(233, 41, 159, 0.8);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+width: 600px;
+text-align:justify;
+margin: auto;
+}
+.join-now{
+    color: #1ee3d3;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
