@@ -1,7 +1,7 @@
-.banner-img{
-    margin: 50px;
-    width: 950px;
-    height:400px;}
+.banner{
+    background-image: url('resources/Banner\ Image.png');
+}
+
 
     .year{
         color:blue;
